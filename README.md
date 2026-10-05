@@ -50,3 +50,7 @@ The goal is to understand sales performance across categories, sub-categories, r
 ## Conclusion
 
 This project demonstrates practical skills in data cleaning, exploratory data analysis, visualization, and dashboard development using Python, Excel, and Power BI.
+
+## Power BI Dashboard
+
+![Superstore Sales Dashboard](dashboard.png)

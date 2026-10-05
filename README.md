@@ -53,4 +53,4 @@ This project demonstrates practical skills in data cleaning, exploratory data an
 
 ## Power BI Dashboard
 
-![Superstore Sales Dashboard](dashboard.png)
+![Superstore Sales Dashboard](Dashboard.png)
